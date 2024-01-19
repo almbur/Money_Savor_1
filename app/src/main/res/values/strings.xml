@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Money_Savor_App_Buran</string>
+    <string name="txt_title">Almaz Buran - Welcome to ExpenseTracker!</string>
+    <string name="txt_num_item">Number of Years</string>
+    <string name="hint1">Money Amount Spent</string>
+    <string name="hint2">Interest Rate</string>
+</resources>
